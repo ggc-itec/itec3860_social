@@ -1,0 +1,1 @@
+Hello, My name is Greg Westerfield. I am writing this in vim. It is 6:54pm on Monday night. This is Software Development I. We are learning about bash and git. YAY! This is another change to this file for me to commit!
