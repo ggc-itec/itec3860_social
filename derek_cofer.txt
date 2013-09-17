@@ -1,0 +1,5 @@
+My name is Derek Cofer in case you couldn't read the file name
+
+I'm starting to enjoy using vim and starting to see the power of this simple text editor
+I'm looking forward to working on our Android app
+Doing more stuff
