@@ -11,4 +11,6 @@ itec3860_social - Code social for ITEC 3860
 2. Add your textfile with your name, hobbies, and anything interesting about yourself (e.g. yourname.txt)
   1. Stage new file and commit:  
     `git add yourname.txt`  then `git commit -m "message"`
-3. Send Pull Request by visiting your forked repo's Github page
+3. Pull changes from remote upstream:  
+    `git pull upstream master`
+4. Send Pull Request by visiting your forked repo's Github page
